@@ -50,10 +50,10 @@
 - title: Publications
   type: time_table
   contents:
-    - title: Collaborative Conceptual Engineering: Philosophy and Linguistics
+    - title: Collaborative Conceptual Engineering; Philosophy and Linguistics
       year: Forthcoming
       description:
-        - Publication: Conceptual Engineering: Methodological and Metaphilosophical Issues
+        - Publication: Conceptual Engineering; Methodological and Metaphilosophical Issues
         - Editor: P. Stalmaszczyk
     - title: Could this be next for corpus linguistics?
       year: 2024
@@ -61,7 +61,7 @@
         - Authors: Fonteyn, L., Manjavacas, E., Haket, N., Dorst, A., Kruijt, E.
         - Publication: Linguistics Vanguard
         - DOI: https://doi.org/10.1515/lingvan-2022-0142
-    - title: Nullius In Verba: Conceptual Engineering and the Royal Society Corpus
+    - title: Nullius In Verba; Conceptual Engineering and the Royal Society Corpus
       year: 2023
       description:
         - Publication: Cambridge Occasional Papers in Linguistics
@@ -106,7 +106,7 @@
         - Train NLP models on historical data
         - Focus on the Royal Society Corpus
     - title: Researcher
-      institution: When Philosophers Meet Linguists: The Conceptual Engineering Project
+      institution: When Philosophers Meet Linguists; The Conceptual Engineering Project
       year: 2021
       description:
         - Provide linguistic input to philosophical domains
@@ -125,7 +125,7 @@
       conference: 6th International Conference of the American Pragmatics Association (AMPRA)
       location: Florida
       year: 2024
-    - title: Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics
+    - title: Why Making Words Better Is Not That Simple; Conceptual Engineering and Distributional Semantics
       conference: The 11th Inter-Varietal Applied Corpus Studies (IVACS)
       coauthor: Ryan Daniels
       location: Cambridge
@@ -134,14 +134,14 @@
 - title: Networks and Projects
   type: list
   contents:
-    - Dawn Supercomputer Pioneer Project: Pioneer project member in the Dawn Supercomputer Initiative at the University of Cambridge’s Research Computing Service
+    - Dawn Supercomputer Pioneer Project; Pioneer project member in the Dawn Supercomputer Initiative at the University of Cambridge’s Research Computing Service
 
 - title: Teaching, Mentoring, and Pedagogy
   type: time_table
   contents:
     - title: Undergraduate Supervisor
       description:
-        - Subjects: Li4: History and Varieties of English, Li2: Structures and Meanings, Li10: Semantics and Pragmatics
+        - Subjects: History and Varieties of English, Structures and Meanings, Semantics and Pragmatics
     - title: Lecturer
       course: Semantics and Pragmatics
       term: Michaelmas 2025
@@ -155,4 +155,4 @@
         - Organiser, Semantics, Pragmatics and Philosophy Workgroup (2022 – Present)
     - title: Public Communications
       items:
-        - Presentation at AI Café organized by CL Accelerate Science: Exemplify work that can be done with LLMs (July 2024)
+        - Presentation at AI Café organized by CL Accelerate Science; Exemplify work that can be done with LLMs (July 2024)
