@@ -6,7 +6,9 @@ subtitle: <a href='https://www.mmll.cam.ac.uk/nina-haket'>PhD Student, Universit
 
 profile:
   align: left
+  align: left
   image: prof_pic.jpg
+  image_circular: true # crops the image to make it circular
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Trinity Hall</p>
