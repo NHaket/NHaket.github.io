@@ -18,18 +18,21 @@
       institution: University of Cambridge
       year: 2022 - Present
       items: >
-        - Supervisor: Kasia Jaszczolt   - "Title: Navigating Meaning Spaces: A
+        - Supervisor: Kasia Jaszczolt   
+        - "Title: Navigating Meaning Spaces: A
         Contextualist Perspective on Conceptual Engineering"
     - title: 'Research Master of Arts, Linguistics'
       institution: Universiteit Leiden
       year: 2020 - 2022
       items: |
-        - Honors: Cum Laude - Supervisors: Lauren Fonteyn, Janet Connor
+        - Honors: Cum Laude 
+        - Supervisors: Lauren Fonteyn, Janet Connor
     - title: BA Linguistics
       institution: University of Cambridge
       year: 2017 - 2020
       items: |
-        - Honors: First Class Honours - Supervisor: David Willis
+        - Honors: First Class Honours 
+        - Supervisor: David Willis
 - title: Areas of Specialization
   type: nested_list
   contents:
@@ -204,79 +207,75 @@
         - >-
           Semantics, Pragmatics, and Philosophy of Language Undergraduate
           dissertation supervisor
-- title: Service Work
-  type: sections
+- title: Administrative Roles
+  type: time_table
   contents:
-    - section: Administrative
+    - title: Communications Assistant Editor
       items:
-        - title: Communications Assistant Editor
-          details:
-            organization: 'Languages, Society and Policy Journal'
-            year: 2024 – Present
-            description: >
-              An open-access online journal publishing high-quality
-              peer-reviewed language research that addresses issues concerning
-              languages, cultures, and societies in accessible and non-technical
-              language. We promote engagement with policymakers, journalists,
-              and stakeholders in education, health, business, and elsewhere.
-        - title: Organiser
-          details:
-            organization: 'Semantics, Pragmatics, and Philosophy Workgroup'
-            year: 2022 – Present
-            description: >
-              A bi-weekly Cambridge University meeting in which authors of
-              recently published papers are invited to discuss their work. My
-              role includes selecting papers for discussion, contacting authors
-              to attend, moderating meetings, and communicating with the rest of
-              the university.
-        - title: Editor
-          details:
-            organization: Cambridge Occasional Papers in Linguistics Journal
-            year: 2022 – Present
-            description: >
-              This journal publishes the work of Cambridge-affiliated
-              linguistics researchers on an annual basis. My role includes
-              communicating with the authors and using Latex to format and
-              publish the papers.
-    - section: Public Communications
+        - organization: 'Languages, Society and Policy Journal'
+        - year: 2024 – Present
+        - description: >
+            An open-access online journal publishing high-quality
+            peer-reviewed language research that addresses issues concerning
+            languages, cultures, and societies in accessible and non-technical
+            language. We promote engagement with policymakers, journalists,
+            and stakeholders in education, health, business, and elsewhere.
+    - title: Organiser
       items:
-        - title: Presentation at the AI Café
-          details:
-            organization: CL Accelerate Science
-            year: July 2024
-            description: Exemplifying work that can be done with LLMs.
-        - title: ANNOTATED. Episode 01 - Nina Haket
-          details:
-            organization: >-
-              Blog of the Undergraduate Linguistics Association of Britain
-              (ULAB)
-            year: July 2023
-            url: 'https://ulab.substack.com/p/annotated-episode-01-nina-haket'
-        - title: In Search of a Language Utopia
-          details:
-            authors: 'Lichtsteiner, L., & Haket, N.'
-            journal: The Low Countries
-            volume: 4
-            issue: 4
-            year: 2021
-    - section: Conference Organisation
+        - organization: 'Semantics, Pragmatics, and Philosophy Workgroup'
+        - year: 2022 – Present
+        - description: >
+            A bi-weekly Cambridge University meeting in which authors of
+            recently published papers are invited to discuss their work. My
+            role includes selecting papers for discussion, contacting authors
+            to attend, moderating meetings, and communicating with the rest of
+            the university.
+    - title: Editor
       items:
-        - title: >-
-            Abstract Concepts, Perception, and Language - What We Think and How
-            We Say It Workshop
-          details:
-            organization: The University of Cambridge
-            year: April 2024
-        - title: LATEX Workshop
-          details:
-            organization: >-
-              Theoretical and Applied Linguistics Department, University of
-              Cambridge
-            year: January 2023
-    - section: Refereeing
+        - organization: 'Cambridge Occasional Papers in Linguistics Journal'
+        - year: 2022 – Present
+        - description: >
+            This journal publishes the work of Cambridge-affiliated
+            linguistics researchers on an annual basis. My role includes
+            communicating with the authors and using Latex to format and
+            publish the papers.
+
+- title: Public Communications
+  type: time_table
+  contents:
+    - title: Presentation at the AI Café
       items:
-        - title: Referee
-          details:
-            journal: >-
-              Theoria - An International Journal for Theory, History, and
-              Foundations of Science
+        - organization: 'CL Accelerate Science'
+        - year: July 2024
+        - description: Exemplifying work that can be done with LLMs.
+    - title: ANNOTATED. Episode 01 - Nina Haket
+      items:
+        - organization: 'Blog of the Undergraduate Linguistics Association of Britain (ULAB)'
+        - year: July 2023
+        - url: 'https://ulab.substack.com/p/annotated-episode-01-nina-haket'
+    - title: In Search of a Language Utopia
+      items:
+        - authors: 'Lichtsteiner, L., & Haket, N.'
+        - journal: 'The Low Countries'
+        - volume: 4
+        - issue: 4
+        - year: 2021
+
+- title: Conference and Workshop Organisation
+  type: time_table
+  contents:
+    - title: Abstract Concepts, Perception, and Language - What We Think and How We Say It Workshop
+      items:
+        - organization: 'The University of Cambridge'
+        - year: April 2024
+    - title: LATEX Workshop
+      items:
+        - organization: 'Theoretical and Applied Linguistics Department, University of Cambridge'
+        - year: January 2023
+
+- title: Refereeing
+  type: time_table
+  contents:
+    - title: Referee
+      items:
+        - journal: 'Theoria - An International Journal for Theory, History, and Foundations of Science'
