@@ -3,7 +3,7 @@
     "name": "Nina Haket",
     "contact": {
       "address": "University of Cambridge, Trinity Hall College, Trinity Lane, Cambridge, CB2 1TJ",
-      "email": "nch35@cam.ac.uk",
+      "email": "nch35@cam.ac.uk"
     }
   },
   "education": [
@@ -191,7 +191,7 @@
       "location": "Online",
       "year": 2020
     }
-  ]
+  ],
 
   "networks_projects": [
     {
@@ -235,5 +235,5 @@
         "date": "July 2024"
       }
     ]
-  },
+  }
 }
