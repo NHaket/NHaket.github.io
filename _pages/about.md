@@ -8,10 +8,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Trinity Hall</p>
-    <p>Cambridge, UK</p>
+    <p>PhD Candidate</p>
+    <p>Trinity Hall, Cambridge</p>
+    <p>Faculty of Modern and Medieval Languages and Linguistics</p>
+    <p>nch35 [at] cam.ac.uk</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
