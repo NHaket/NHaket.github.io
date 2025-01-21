@@ -7,12 +7,12 @@ nav: true
 nav_order: 6
 ---
 
-# Thesis/Dissertation Supervisor
+## Thesis/Dissertation Supervisor
 - Dissertation Supervisor (2024): Guided undergraduate research in semantics and pragmatics.
 
-# Small Group Teaching
+## Small Group Teaching
 - Undergraduate Supervisor, University of Cambridge (2022 – Present):
   - Taught courses: History and Varieties of English (Li4), Structures and Meanings (Li2), Semantics and Pragmatics (Li10).
 
-# Lecturing
+## Lecturing
 - Lecturer (2025, Michaelmas Term): Semantics and Pragmatics course.
