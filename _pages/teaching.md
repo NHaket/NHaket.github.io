@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Thesis/Dissertation Supervisor
+- Dissertation Supervisor (2024): Guided undergraduate research in semantics and pragmatics.
 
-Organize your courses by years, topics, or universities, however you like!
+# Small Group Teaching
+- Undergraduate Supervisor, University of Cambridge (2022 – Present):
+  - Taught courses: History and Varieties of English (Li4), Structures and Meanings (Li2), Semantics and Pragmatics (Li10).
+
+# Lecturing
+- Lecturer (2025, Michaelmas Term): Semantics and Pragmatics course.

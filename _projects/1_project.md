@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Navigating Meaning Spaces; A Contextualist Approach to Conceptual Engineering
+description: PhD Research Project
 img: assets/img/12.jpg
 importance: 1
 category: work

@@ -1,200 +1,239 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+  "personal_info": {
+    "name": "Nina Haket",
+    "contact": {
+      "address": "University of Cambridge, Trinity Hall College, Trinity Lane, Cambridge, CB2 1TJ",
+      "email": "nch35@cam.ac.uk"
+    }
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "degree": "PhD Theoretical and Applied Linguistics",
+      "institution": "University of Cambridge",
+      "duration": "2022 - Present",
+      "supervisor": "Kasia Jaszczolt",
+      "title": "Navigating Meaning Spaces: A Contextualist Perspective on Conceptual Engineering"
+    },
+    {
+      "degree": "Research Master of Arts, Linguistics",
+      "institution": "Universiteit Leiden",
+      "duration": "2020 - 2022",
+      "honors": "Cum Laude",
+      "supervisors": ["Lauren Fonteyn", "Janet Connor"]
+    },
+    {
+      "degree": "BA Linguistics",
+      "institution": "University of Cambridge",
+      "duration": "2017 - 2020",
+      "honors": "First Class Honours",
+      "supervisor": "David Willis"
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "specializations": {
+    "areas_of_specialisation": [
+      "Conceptual Engineering",
+      "Language Change",
+      "Semantics-Pragmatics Boundary",
+      "Word Meaning"
+    ],
+    "areas_of_competence": [
+      "Historical Linguistics",
+      "Sociolinguistics",
+      "Philosophy of Language"
+    ]
+  },
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "title": "Collaborative Conceptual Engineering: Philosophy and Linguistics",
+      "status": "Forthcoming",
+      "publication": "Conceptual Engineering: Methodological and Metaphilosophical Issues",
+      "editor": "P. Stalmaszczyk"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "title": "Could this be next for corpus linguistics? Methods of semi-automatic data annotation with contextualized word embeddings",
+      "authors": ["Fonteyn, L.", "Manjavacas, E.", "Haket, N.", "Dorst, A.", "Kruijt, E."],
+      "publication": "Linguistics Vanguard",
+      "year": 2024,
+      "doi": "https://doi.org/10.1515/lingvan-2022-0142"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Nullius In Verba: Conceptual Engineering and the Royal Society Corpus",
+      "publication": "Cambridge Occasional Papers in Linguistics",
+      "volume": 15,
+      "pages": "155–195",
+      "year": 2023
+    },
+    {
+      "title": "Language Contact and the Phylogeny and Phonology of Early English",
+      "publication": "Journal of the Undergraduate Linguistics Association of Great Britain",
+      "volume": 1,
+      "issue": 1,
+      "pages": "1–32",
+      "year": 2021
     }
   ],
-  "skills": [
+  "grants_honors_awards": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "year": 2023,
+      "description": "TAL Research Area Workshops (RAW) funding to organise a student-led workshop"
+    },
+    {
+      "year": 2022,
+      "description": "Cambridge Trust International Scholarship for full PhD funding"
+    },
+    {
+      "year": 2017,
+      "description": "Sufian Passamano Prize for Linguistics"
+    },
+    {
+      "year": 2017,
+      "description": "Elected to a Bateman scholarship for attaining a First-Class Honours classification every year of my bachelor’s degree"
+    }
+  ],
+  "research_employment": [
+    {
+      "position": "Student Assistant",
+      "project": "Lorentz Centre Workshop for Ethics in Linguistics",
+      "year": 2022,
+      "responsibilities": [
+        "Prepare and run workshop materials",
+        "Collate materials during the workshop",
+        "Communicate with participants and contributors"
+      ]
+    },
+    {
+      "position": "Research Assistant",
+      "project": "MacBERTh Project",
+      "year": 2022,
+      "responsibilities": [
+        "Train NLP models on historical data",
+        "Focus on the Royal Society Corpus"
+      ]
+    },
+    {
+      "position": "Researcher",
+      "project": "When Philosophers Meet Linguists: The Conceptual Engineering Project",
+      "year": 2021,
+      "responsibilities": [
+        "Provide linguistic input to philosophical domains",
+        "Conduct independent research",
+        "Prepare presentations"
+      ]
+    },
+    {
+      "position": "Translator",
+      "project": "The Uab Meteo Middelkoop Dictionary",
+      "year": 2021,
+      "responsibilities": [
+        "Translate the dictionary into English for publication"
       ]
     }
   ],
-  "languages": [
+"presentations": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "title": "The Forgotten Pragmatic Aspect of Conceptual Engineering",
+      "conference": "6th International Conference of the American Pragmatics Association (AMPRA)",
+      "location": "Florida",
+      "year": 2024
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "title": "Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics",
+      "conference": "The 11th Inter-Varietal Applied Corpus Studies (IVACS)",
+      "coauthor": "Ryan Daniels",
+      "location": "Cambridge",
+      "year": 2024
+    },
+    {
+      "title": "Why We Need a Semantics-Pragmatics Divide in Conceptual Engineering",
+      "conference": "The 18th Cambridge Graduate Conference in Linguistics",
+      "location": "Cambridge",
+      "year": 2024
+    },
+    {
+      "title": "On Making Better Concepts: The Forgotten Pragmatic Aspect of Conceptual Engineering",
+      "conference": "Interdisciplinary Workshop for Linguistic and Philosophical Research in Conceptual Engineering",
+      "location": "Cambridge",
+      "year": 2024
+    },
+    {
+      "title": "What Would Nietzsche Say about Concepts? Revisiting Semantic and Pragmatic Theories in Conceptual Engineering",
+      "conference": "Theoretical and Applied Linguistics Graduate Seminar",
+      "location": "University of Cambridge",
+      "year": 2023
+    },
+    {
+      "title": "On Words, Word Meanings, and Improving Concepts: Conceptual Engineering and Linguistics",
+      "conference": "Theoretical and Applied Linguistics Graduate Seminar",
+      "location": "University of Cambridge",
+      "year": 2022
+    },
+    {
+      "title": "Do I contradict myself? Very well then I contradict myself: Conceptual Engineering, Lexical Semantics, and Linguistic Creativity",
+      "conference": "Research Master Symposium",
+      "location": "Leiden University",
+      "year": 2022
+    },
+    {
+      "title": "Where Philology Meets Philosophy: Conceptual Engineering and Linguistic Analysis",
+      "conference": "Research Master Symposium",
+      "location": "Leiden University",
+      "year": 2021
+    },
+    {
+      "title": "Nullius In Verba: Conceptual Engineering and the Royal Society Corpus",
+      "conference": "9th International Corpus Linguistics Conference",
+      "location": "Cardiff",
+      "year": 2021
+    },
+    {
+      "title": "Of Witches, Kings, and Spacemen: Semantic and Pragmatic Changes in Gendered Words",
+      "conference": "Undergraduate Linguistics Association of Great Britain (ULAB) Conference",
+      "location": "Online",
+      "year": 2020
     }
   ],
-  "interests": [
+
+  "networks_projects": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "project": "Dawn Supercomputer Pioneer Project",
+      "description": "Pioneer project member in the Dawn Supercomputer Initiative at the University of Cambridge’s Research Computing Service"
+    }
+  ],
+  "teaching_mentoring_pedagogy": [
+    {
+      "role": "Undergraduate Supervisor",
+      "subjects": [
+        "Li4: History and Varieties of English",
+        "Li2: Structures and Meanings",
+        "Li10: Semantics and Pragmatics"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "role": "Lecturer",
+      "course": "Semantics and Pragmatics",
+      "term": "Michaelmas 2025"
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "service_work": {
+    "administrative": [
+      {
+        "role": "Communications Assistant Editor",
+        "journal": "Languages, Society and Policy Journal",
+        "duration": "2024 – Present"
+      },
+      {
+        "role": "Organiser",
+        "workgroup": "Semantics, Pragmatics and Philosophy Workgroup",
+        "duration": "2022 – Present"
+      }
+    ],
+    "public_communications": [
+      {
+        "type": "Presentation",
+        "event": "AI Café organised by CL Accelerate Science",
+        "description": "Exemplify work that can be done with LLMs",
+        "date": "July 2024"
+      }
+    ]
+  }
 }
