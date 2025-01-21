@@ -16,21 +16,21 @@
     - title: PhD Theoretical and Applied Linguistics
       institution: University of Cambridge
       year: 2022 - Present
-      description:
-      Supervisor: Kasia Jaszczolt
-      Title: Navigating Meaning Spaces; A Contextualist Perspective on Conceptual Engineering
+      description: >
+        Supervisor: Kasia Jaszczolt  
+        Title: Navigating Meaning Spaces; A Contextualist Perspective on Conceptual Engineering
     - title: Research Master of Arts, Linguistics
       institution: Universiteit Leiden
       year: 2020 - 2022
-      description:
-      Honors: Cum Laude
-      Supervisors: Lauren Fonteyn, Janet Connor
+      description: >
+        Honors: Cum Laude  
+        Supervisors: Lauren Fonteyn, Janet Connor
     - title: BA Linguistics
       institution: University of Cambridge
       year: 2017 - 2020
-      description:
-      Honors: First Class Honours
-      Supervisor: David Willis
+      description: >
+        Honors: First Class Honours  
+        Supervisor: David Willis
 
 - title: Areas of Specialization
   type: nested_list
@@ -52,27 +52,27 @@
   contents:
     - title: Collaborative Conceptual Engineering; Philosophy and Linguistics
       year: 2024
-      Publication: Conceptual Engineering; Methodological and Metaphilosophical Issues
-      Editor: P. Stalmaszczyk
+      publication: Conceptual Engineering; Methodological and Metaphilosophical Issues
+      editor: P. Stalmaszczyk
     - title: Could this be next for corpus linguistics?
       year: 2024
-      description:
-      Authors: Fonteyn, L., Manjavacas, E., Haket, N., Dorst, A., Kruijt, E.
-      Publication: Linguistics Vanguard
-      DOI: https://doi.org/10.1515/lingvan-2022-0142
+      description: >
+        Authors: Fonteyn, L., Manjavacas, E., Haket, N., Dorst, A., Kruijt, E.  
+        Publication: Linguistics Vanguard  
+        DOI: https://doi.org/10.1515/lingvan-2022-0142
     - title: Nullius In Verba; Conceptual Engineering and the Royal Society Corpus
       year: 2023
-      description:
-      Publication: Cambridge Occasional Papers in Linguistics
-      Volume: 15
-      Pages: 155–195
+      description: >
+        Publication: Cambridge Occasional Papers in Linguistics  
+        Volume: 15  
+        Pages: 155–195
     - title: Language Contact and the Phylogeny and Phonology of Early English
       year: 2021
-      description:
-      Publication: Journal of the Undergraduate Linguistics Association of Great Britain
-      Volume: 1
-      Issue: 1
-      Pages: 1–32
+      description: >
+        Publication: Journal of the Undergraduate Linguistics Association of Great Britain  
+        Volume: 1  
+        Issue: 1  
+        Pages: 1–32
 
 - title: Grants, Honors, and Awards
   type: time_table
@@ -94,27 +94,27 @@
     - title: Student Assistant
       institution: Lorentz Centre Workshop for Ethics in Linguistics
       year: 2022
-      description:
-        - Prepare and run workshop materials
-        - Collate materials during the workshop
+      description: >
+        - Prepare and run workshop materials  
+        - Collate materials during the workshop  
         - Communicate with participants and contributors
     - title: Research Assistant
       institution: MacBERTh Project
       year: 2022
-      description:
-        - Train NLP models on historical data
+      description: >
+        - Train NLP models on historical data  
         - Focus on the Royal Society Corpus
     - title: Researcher
       institution: When Philosophers Meet Linguists; The Conceptual Engineering Project
       year: 2021
-      description:
-        - Provide linguistic input to philosophical domains
-        - Conduct independent research
+      description: >
+        - Provide linguistic input to philosophical domains  
+        - Conduct independent research  
         - Prepare presentations
     - title: Translator
       institution: The Uab Meteo Middelkoop Dictionary
       year: 2021
-      description:
+      description: >
         - Translate the dictionary into English for publication
 
 - title: Presentations
@@ -164,21 +164,23 @@
       year: 2023
       invited: true
 
-
 - title: Networks and Projects
   type: list
   contents:
-    -title:  Dawn Supercomputer Pioneer Project
-    description: Pioneer project member in the Dawn Supercomputer Initiative at the University of Cambridge’s Research Computing Service
+    - title: Dawn Supercomputer Pioneer Project
+      description: >
+        Pioneer project member in the Dawn Supercomputer Initiative at the University of Cambridge’s Research Computing Service.
 
 - title: Teaching, Mentoring, and Pedagogy
   type: time_table
   contents:
     - title: Undergraduate Supervisor
-      Subjects: History and Varieties of English, Structures and Meanings, Semantics and Pragmatics
+      subjects: History and Varieties of English, Structures and Meanings, Semantics and Pragmatics
     - title: Lecturer
       course: Semantics and Pragmatics
       term: Michaelmas 2025
+    - title: Dissertation Supervisor
+      course: Semantics, Pragmatics, and Philosophy of Language
 
 - title: Service Work
   type: time_table
@@ -189,7 +191,7 @@
           organization: Languages, Society and Policy Journal
           year: 2024 – Present
           description: >
-            An open-access online journal publishing high-quality peer-reviewed language research that addresses issues concerning languages, cultures, and societies in accessible and non-technical language. We promote engagement with policy makers, journalists, and stakeholders in education, health, business, and elsewhere.
+            An open-access online journal publishing high-quality peer-reviewed language research that addresses issues concerning languages, cultures, and societies in accessible and non-technical language. We promote engagement with policymakers, journalists, and stakeholders in education, health, business, and elsewhere.
         - title: Organiser
           organization: Semantics, Pragmatics, and Philosophy Workgroup
           year: 2022 – Present
