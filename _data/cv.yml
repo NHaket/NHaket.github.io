@@ -17,22 +17,18 @@
     - title: PhD Theoretical and Applied Linguistics
       institution: University of Cambridge
       year: 2022 - Present
-      items: >
-        - Supervisor: Kasia Jaszczolt   
-        - "Title: Navigating Meaning Spaces: A
-        Contextualist Perspective on Conceptual Engineering"
+      description: >
+        Provisional title "Navigating Meaning Spaces: A Contextualist Perspective on Conceptual Engineering". Supervised by Prof. Kasia Jaszczolt. 
     - title: 'Research Master of Arts, Linguistics'
       institution: Universiteit Leiden
       year: 2020 - 2022
-      items: |
-        - Honors: Cum Laude 
-        - Supervisors: Lauren Fonteyn, Janet Connor
+      description: >
+      ResMa thesis titled "Nullius In Verba: Conceptual Engineering and the Royal Society Corpus", supervised by Lauren Fonteyn and Janet Connor. Achieved Cum Laude Honors. 
     - title: BA Linguistics
       institution: University of Cambridge
       year: 2017 - 2020
-      items: |
-        - Honors: First Class Honours 
-        - Supervisor: David Willis
+      description: |
+      BA thesis titled "Language Contact and the Phylogeny and Phonology of Early English", supervised by David Willis. Achieved First Class Honours. 
 - title: Areas of Specialization
   type: nested_list
   contents:
@@ -200,13 +196,11 @@
         - Semantics and Pragmatics
     - title: Lecturer
       items:
-        - Semantics and Pragmatics
-        - Michaelmas 2025
+        - Semantics and Pragmatics (Li10) Michaelmas 2025
     - title: Dissertation Supervisor
       items:
         - >-
-          Semantics, Pragmatics, and Philosophy of Language Undergraduate
-          dissertation supervisor
+          Semantics, Pragmatics, and Philosophy of Language Undergraduate dissertation supervisor
 - title: Administrative Roles
   type: time_table
   contents:
@@ -244,22 +238,15 @@
   type: time_table
   contents:
     - title: Presentation at the AI Café
-      items:
-        - organization: 'CL Accelerate Science'
-        - year: July 2024
-        - description: Exemplifying work that can be done with LLMs.
+      description: >
+       Presentation at the AI Café organised by CL Accelerate Science to exemplify work that can be done with LLMs, July 2024
     - title: ANNOTATED. Episode 01 - Nina Haket
-      items:
-        - organization: 'Blog of the Undergraduate Linguistics Association of Britain (ULAB)'
-        - year: July 2023
-        - url: 'https://ulab.substack.com/p/annotated-episode-01-nina-haket'
+      description: >
+      Podcast recording for the Blog of the Undergraduate Linguistics Association of Britain, explaining my research and advising current undergradiate students. https://ulab.substack.com/p/annotated-episode-01-nina-haket
     - title: In Search of a Language Utopia
-      items:
-        - authors: 'Lichtsteiner, L., & Haket, N.'
-        - journal: 'The Low Countries'
-        - volume: 4
-        - issue: 4
-        - year: 2021
+      description: >
+      Magazine article written in The Low Countries, an academic magazine aiming to target all aspects of language and culture. Lichtsteiner, L., & Haket, N. (2021b). In Search of a Language Utopia. The Low Countries, 4(4)
+        
 
 - title: Conference and Workshop Organisation
   type: time_table
