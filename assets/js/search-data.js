@@ -37,21 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projects",
-              title: "projects",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "projects-navigating-meaning-spaces-a-contextualist-approach-to-conceptual-engineering",
+        },{id: "projects-navigating-meaning-spaces-a-contextualist-approach-to-conceptual-engineering",
           title: 'Navigating Meaning Spaces; A Contextualist Approach to Conceptual Engineering',
           description: "PhD Research Project",
           section: "Projects",handler: () => {
