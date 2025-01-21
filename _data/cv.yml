@@ -17,20 +17,20 @@
       institution: University of Cambridge
       year: 2022 - Present
       description:
-        - Supervisor: Kasia Jaszczolt
-        - Title: Navigating Meaning Spaces; A Contextualist Perspective on Conceptual Engineering
+      Supervisor: Kasia Jaszczolt
+      Title: Navigating Meaning Spaces; A Contextualist Perspective on Conceptual Engineering
     - title: Research Master of Arts, Linguistics
       institution: Universiteit Leiden
       year: 2020 - 2022
       description:
-        - Honors: Cum Laude
-        - Supervisors: Lauren Fonteyn, Janet Connor
+      Honors: Cum Laude
+      Supervisors: Lauren Fonteyn, Janet Connor
     - title: BA Linguistics
       institution: University of Cambridge
       year: 2017 - 2020
       description:
-        - Honors: First Class Honours
-        - Supervisor: David Willis
+      Honors: First Class Honours
+      Supervisor: David Willis
 
 - title: Areas of Specialization
   type: nested_list
@@ -52,28 +52,27 @@
   contents:
     - title: Collaborative Conceptual Engineering; Philosophy and Linguistics
       year: 2024
-      description:
-        - Publication: Conceptual Engineering; Methodological and Metaphilosophical Issues
-        - Editor: P. Stalmaszczyk
+      Publication: Conceptual Engineering; Methodological and Metaphilosophical Issues
+      Editor: P. Stalmaszczyk
     - title: Could this be next for corpus linguistics?
       year: 2024
       description:
-        - Authors: Fonteyn, L., Manjavacas, E., Haket, N., Dorst, A., Kruijt, E.
-        - Publication: Linguistics Vanguard
-        - DOI: https://doi.org/10.1515/lingvan-2022-0142
+      Authors: Fonteyn, L., Manjavacas, E., Haket, N., Dorst, A., Kruijt, E.
+      Publication: Linguistics Vanguard
+      DOI: https://doi.org/10.1515/lingvan-2022-0142
     - title: Nullius In Verba; Conceptual Engineering and the Royal Society Corpus
       year: 2023
       description:
-        - Publication: Cambridge Occasional Papers in Linguistics
-        - Volume: 15
-        - Pages: 155–195
+      Publication: Cambridge Occasional Papers in Linguistics
+      Volume: 15
+      Pages: 155–195
     - title: Language Contact and the Phylogeny and Phonology of Early English
       year: 2021
       description:
-        - Publication: Journal of the Undergraduate Linguistics Association of Great Britain
-        - Volume: 1
-        - Issue: 1
-        - Pages: 1–32
+      Publication: Journal of the Undergraduate Linguistics Association of Great Britain
+      Volume: 1
+      Issue: 1
+      Pages: 1–32
 
 - title: Grants, Honors, and Awards
   type: time_table
@@ -125,34 +124,110 @@
       conference: 6th International Conference of the American Pragmatics Association (AMPRA)
       location: Florida
       year: 2024
-    - title: Why Making Words Better Is Not That Simple; Conceptual Engineering and Distributional Semantics
+      invited: true
+    - title: Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics
       conference: The 11th Inter-Varietal Applied Corpus Studies (IVACS)
       coauthor: Ryan Daniels
       location: Cambridge
       year: 2024
+    - title: Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics
+      conference: Pre-Conference Workshop for the 4th Experimental Philosophy Conference on Large Language Models for Experimental Philosophy
+      coauthor: Ryan Daniels
+      location: Krakow
+      year: 2024
+      invited: true
+    - title: Intra and Inter-Word Variation in Conceptual Engineering
+      conference: Conceptual Engineering Network (CEN) Lecture
+      location: Virtual
+      url: https://www.youtube.com/watch?v=qN6pKFT-9gA&t=2468s
+      year: 2024
+      invited: true
+    - title: Conceptual Engineering: Fixing the Concept of NOW in Russian
+      conference: Workshop on Abstract Concepts, Perception, and Language: What We Think and How We Say It
+      location: Cambridge
+      year: 2024
+    - title: Empirical Dilemmas in Conceptual Engineering: Words and Beyond
+      conference: Pre-Conference Workshop for the 3rd European Experimental Philosophy Conference on The Dawn of Experimental Conceptual Engineering
+      location: Zurich
+      year: 2023
+      invited: true
+    - title: Nullius in Verba: Conceptual Engineering and the Royal Society Corpus
+      conference: 18th International Pragmatics Association Conference
+      location: Brussels
+      year: 2023
+    - title: Collaborative Conceptual Engineering
+      conference: 8th International Conference on the Philosophy of Language and Linguistics
+      location: Lodz
+      year: 2023
+    - title: Conceptual Engineering and Propositions: An Argument for Functional Dynamic Propositions
+      conference: Semantics, Pragmatics, and Philosophy Workgroup Meeting
+      year: 2023
+      invited: true
+
 
 - title: Networks and Projects
   type: list
   contents:
-    - Dawn Supercomputer Pioneer Project; Pioneer project member in the Dawn Supercomputer Initiative at the University of Cambridge’s Research Computing Service
+    -title:  Dawn Supercomputer Pioneer Project
+    description: Pioneer project member in the Dawn Supercomputer Initiative at the University of Cambridge’s Research Computing Service
 
 - title: Teaching, Mentoring, and Pedagogy
   type: time_table
   contents:
     - title: Undergraduate Supervisor
-      description:
-        - Subjects: History and Varieties of English, Structures and Meanings, Semantics and Pragmatics
+      Subjects: History and Varieties of English, Structures and Meanings, Semantics and Pragmatics
     - title: Lecturer
       course: Semantics and Pragmatics
       term: Michaelmas 2025
 
 - title: Service Work
-  type: nested_list
+  type: time_table
   contents:
     - title: Administrative
       items:
-        - Communications Assistant Editor, Languages, Society and Policy Journal (2024 – Present)
-        - Organiser, Semantics, Pragmatics and Philosophy Workgroup (2022 – Present)
+        - title: Communications Assistant Editor
+          organization: Languages, Society and Policy Journal
+          year: 2024 – Present
+          description: >
+            An open-access online journal publishing high-quality peer-reviewed language research that addresses issues concerning languages, cultures, and societies in accessible and non-technical language. We promote engagement with policy makers, journalists, and stakeholders in education, health, business, and elsewhere.
+        - title: Organiser
+          organization: Semantics, Pragmatics, and Philosophy Workgroup
+          year: 2022 – Present
+          description: >
+            A bi-weekly Cambridge University meeting in which authors of recently published papers are invited to discuss their work. My role includes selecting papers for discussion, contacting authors to attend, moderating meetings, and communicating with the rest of the university.
+        - title: Editor
+          organization: Cambridge Occasional Papers in Linguistics Journal
+          year: 2022 – Present
+          description: >
+            This journal publishes the work of Cambridge-affiliated linguistics researchers on an annual basis. My role includes communicating with the authors and using Latex to format and publish the papers.
+
     - title: Public Communications
       items:
-        - Presentation at AI Café organized by CL Accelerate Science; Exemplify work that can be done with LLMs (July 2024)
+        - title: Presentation at the AI Café
+          organization: CL Accelerate Science
+          year: July 2024
+          description: Exemplifying work that can be done with LLMs.
+        - title: ANNOTATED. Episode 01: Nina Haket
+          organization: Blog of the Undergraduate Linguistics Association of Britain (ULAB)
+          year: July 2023
+          url: https://ulab.substack.com/p/annotated-episode-01-nina-haket
+        - title: In Search of a Language Utopia
+          authors: Lichtsteiner, L., & Haket, N.
+          journal: The Low Countries
+          volume: 4
+          issue: 4
+          year: 2021
+
+    - title: Conference Organisation
+      items:
+        - title: Abstract Concepts, Perception, and Language: What We Think and How We Say It Workshop
+          organization: The University of Cambridge
+          year: April 2024
+        - title: LATEX Workshop
+          organization: Theoretical and Applied Linguistics Department, University of Cambridge
+          year: January 2023
+
+    - title: Refereeing
+      items:
+        - title: Referee
+          journal: Theoria: An International Journal for Theory, History, and Foundations of Science
