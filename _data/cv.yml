@@ -125,12 +125,12 @@
       location: Florida
       year: 2024
       invited: true
-    - title: Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics
+    - title: Why Making Words Better Is Not That Simple- Conceptual Engineering and Distributional Semantics
       conference: The 11th Inter-Varietal Applied Corpus Studies (IVACS)
       coauthor: Ryan Daniels
       location: Cambridge
       year: 2024
-    - title: Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics
+    - title: Why Making Words Better Is Not That Simple- Conceptual Engineering and Distributional Semantics
       conference: Pre-Conference Workshop for the 4th Experimental Philosophy Conference on Large Language Models for Experimental Philosophy
       coauthor: Ryan Daniels
       location: Krakow
@@ -142,24 +142,24 @@
       url: https://www.youtube.com/watch?v=qN6pKFT-9gA&t=2468s
       year: 2024
       invited: true
-    - title: Conceptual Engineering: Fixing the Concept of NOW in Russian
-      conference: Workshop on Abstract Concepts, Perception, and Language: What We Think and How We Say It
+    - title: Conceptual Engineering-  Fixing the Concept of NOW in Russian
+      conference: Workshop on Abstract Concepts, Perception, and Language- What We Think and How We Say It
       location: Cambridge
       year: 2024
-    - title: Empirical Dilemmas in Conceptual Engineering: Words and Beyond
+    - title: Empirical Dilemmas in Conceptual Engineering- Words and Beyond
       conference: Pre-Conference Workshop for the 3rd European Experimental Philosophy Conference on The Dawn of Experimental Conceptual Engineering
       location: Zurich
       year: 2023
       invited: true
-    - title: Nullius in Verba: Conceptual Engineering and the Royal Society Corpus
+    - title: Nullius in Verba - Conceptual Engineering and the Royal Society Corpus
       conference: 18th International Pragmatics Association Conference
       location: Brussels
       year: 2023
     - title: Collaborative Conceptual Engineering
-      conference: 8th International Conference on the Philosophy of Language and Linguistics
+      conference: 8th International Conference on the Philosophy of Languageand Linguistics
       location: Lodz
       year: 2023
-    - title: Conceptual Engineering and Propositions: An Argument for Functional Dynamic Propositions
+    - title: Conceptual Engineering and Propositions- An Argument for Functional Dynamic Propositions
       conference: Semantics, Pragmatics, and Philosophy Workgroup Meeting
       year: 2023
       invited: true
@@ -209,7 +209,7 @@
           organization: CL Accelerate Science
           year: July 2024
           description: Exemplifying work that can be done with LLMs.
-        - title: ANNOTATED. Episode 01: Nina Haket
+        - title: ANNOTATED. Episode 01- Nina Haket
           organization: Blog of the Undergraduate Linguistics Association of Britain (ULAB)
           year: July 2023
           url: https://ulab.substack.com/p/annotated-episode-01-nina-haket
@@ -222,7 +222,7 @@
 
     - title: Conference Organisation
       items:
-        - title: Abstract Concepts, Perception, and Language: What We Think and How We Say It Workshop
+        - title: Abstract Concepts, Perception, and Language - What We Think and How We Say It Workshop
           organization: The University of Cambridge
           year: April 2024
         - title: LATEX Workshop
@@ -232,4 +232,4 @@
     - title: Refereeing
       items:
         - title: Referee
-          journal: Theoria: An International Journal for Theory, History, and Foundations of Science
+          journal: Theoria- An International Journal for Theory, History, and Foundations of Science
