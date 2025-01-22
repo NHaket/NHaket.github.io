@@ -240,18 +240,27 @@
 - title: Conference and Workshop Organisation
   type: time_table
   contents:
+      - title: Organiser, 11th Biennial Experimental Pragmatics Conference (XPRAG 2025) 
+      -items:
+      - XPrag will be held at the University of Cambridge, from September 17th to September 19th, 2025. 
+      items:
+        - Co-organiser of this interdisciplinary workshop that brought together early-stage researchers from multiple countries.
+        - 'The University of Cambridge'
+        - April 2024
     - title: Abstract Concepts, Perception, and Language - What We Think and How We Say It Workshop
       items:
-        - organization: 'The University of Cambridge'
-        - year: April 2024
+        - Co-organiser of this interdisciplinary workshop that brought together early-stage researchers from multiple countries.
+        - 'The University of Cambridge'
+        - April 2024
     - title: LATEX Workshop
       items:
-        - organization: 'Theoretical and Applied Linguistics Department, University of Cambridge'
-        - year: January 2023
+        - Co-ograniser of a workshop to teach and exemplify the use of LATEX in academia, focussing on linguistics contexts
+        - 'Theoretical and Applied Linguistics Department, University of Cambridge'
+        - January 2023
 
 - title: Refereeing
   type: time_table
   contents:
     - title: Referee
       items:
-        - journal: 'Theoria - An International Journal for Theory, History, and Foundations of Science'
+        - 'Theoria - An International Journal for Theory, History, and Foundations of Science'
