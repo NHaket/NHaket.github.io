@@ -11,6 +11,7 @@
       value: nch35 [at] cam.ac.uk
     - name: Website
       value: Personal Website
+
 - title: Education
   type: time_table
   contents:
@@ -29,6 +30,7 @@
       year: 2017 - 2020
       description: >
         BA thesis titled "Language Contact and the Phylogeny and Phonology of Early English", supervised by David Willis. Achieved First Class Honours.
+
 - title: Areas of Specialization
   type: nested_list
   contents:
@@ -43,6 +45,7 @@
         - Historical Linguistics
         - Sociolinguistics
         - Philosophy of Language
+
 - title: Publications
   type: time_table
   contents:
@@ -71,6 +74,7 @@
         Haket, N. (2021). Language Contact and the Phylogeny and Phonology of
         Early English. Journal of the Undergraduate Linguistics Association of
         Great Britain, 1(1), 1–32.
+
 - title: Grants, Honors, and Awards
   type: time_table
   contents:
@@ -84,6 +88,7 @@
       items:
         - Sufian Passamano Prize for Linguistics
         - Elected to a Bateman scholarship for attaining a First-Class Honours classification every year of my bachelor’s degree
+
 - title: Research and Employment
   type: time_table
   contents:
@@ -112,6 +117,7 @@
       year: 2021
       items:
         - Translate the dictionary into English for publication
+
 - title: Presentations
   type: time_table
   contents:
@@ -173,6 +179,7 @@
       location: Cambridge
       year: 2023
       invited: true
+
 - title: Networks and Projects
   type: time_table
   contents:
@@ -180,6 +187,7 @@
       description: >
         Pioneer project member in the Dawn Supercomputer Initiative at the
         University of Cambridge’s Research Computing Service.
+
 - title: 'Teaching, Mentoring, and Pedagogy'
   type: time_table
   contents:
@@ -195,6 +203,7 @@
       items:
         - >-
           Semantics, Pragmatics, and Philosophy of Language Undergraduate dissertation supervisor
+
 - title: Administrative Roles
   type: time_table
   contents:
@@ -221,12 +230,13 @@
           linguistics researchers on an annual basis. My role includes
           communicating with the authors and using Latex to format and
           publish the papers.
+
 - title: Public Communications
   type: time_table
   contents:
     - title: Presentation at the AI Café
       description: >
-       Presentation at the AI Café organised by CL Accelerate Science to exemplify work that can be done with LLMs, July 2024
+        Presentation at the AI Café organised by CL Accelerate Science to exemplify work that can be done with LLMs, July 2024
     - title: ANNOTATED. Episode 01 - Nina Haket
       description: >
         Podcast recording for the Blog of the Undergraduate Linguistics Association 
@@ -237,13 +247,13 @@
         Magazine article written in *The Low Countries*, an academic magazine aiming 
         to target all aspects of language and culture. Lichtsteiner, L., & Haket, N. (2021b). 
         In Search of a Language Utopia. The Low Countries, 4(4).
+
 - title: Conference and Workshop Organisation
   type: time_table
   contents:
-      - title: Organiser, 11th Biennial Experimental Pragmatics Conference (XPRAG 2025) 
-      -items:
-      - XPrag will be held at the University of Cambridge, from September 17th to September 19th, 2025. 
+    - title: Organiser, 11th Biennial Experimental Pragmatics Conference (XPRAG 2025) 
       items:
+        - XPrag will be held at the University of Cambridge, from September 17th to September 19th, 2025. 
         - Co-organiser of this interdisciplinary workshop that brought together early-stage researchers from multiple countries.
         - 'The University of Cambridge'
         - April 2024
@@ -254,7 +264,7 @@
         - April 2024
     - title: LATEX Workshop
       items:
-        - Co-ograniser of a workshop to teach and exemplify the use of LATEX in academia, focussing on linguistics contexts
+        - Co-organiser of a workshop to teach and exemplify the use of LATEX in academia, focussing on linguistics contexts
         - 'Theoretical and Applied Linguistics Department, University of Cambridge'
         - January 2023
 
