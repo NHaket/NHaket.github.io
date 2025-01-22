@@ -18,17 +18,17 @@
       institution: University of Cambridge
       year: 2022 - Present
       description: >
-        Provisional title "Navigating Meaning Spaces: A Contextualist Perspective on Conceptual Engineering". Supervised by Prof. Kasia Jaszczolt. 
-    - title: 'Research Master of Arts, Linguistics'
+        Provisional title "Navigating Meaning Spaces: A Contextualist Perspective on Conceptual Engineering". Supervised by Prof. Kasia Jaszczolt.
+    - title: Research Master of Arts, Linguistics
       institution: Universiteit Leiden
       year: 2020 - 2022
       description: >
-      ResMa thesis titled "Nullius In Verba: Conceptual Engineering and the Royal Society Corpus", supervised by Lauren Fonteyn and Janet Connor. Achieved Cum Laude Honors. 
+        ResMa thesis titled "Nullius In Verba: Conceptual Engineering and the Royal Society Corpus", supervised by Lauren Fonteyn and Janet Connor. Achieved Cum Laude Honors.
     - title: BA Linguistics
       institution: University of Cambridge
       year: 2017 - 2020
-      description: |
-      BA thesis titled "Language Contact and the Phylogeny and Phonology of Early English", supervised by David Willis. Achieved First Class Honours. 
+      description: >
+        BA thesis titled "Language Contact and the Phylogeny and Phonology of Early English", supervised by David Willis. Achieved First Class Honours.
 - title: Areas of Specialization
   type: nested_list
   contents:
@@ -71,23 +71,19 @@
         Haket, N. (2021). Language Contact and the Phylogeny and Phonology of
         Early English. Journal of the Undergraduate Linguistics Association of
         Great Britain, 1(1), 1–32.
-- title: 'Grants, Honors, and Awards'
+- title: Grants, Honors, and Awards
   type: time_table
   contents:
     - year: 2023
       items:
-        - >-
-          TAL Research Area Workshops (RAW) funding to organize a student-led
-          workshop
+        - TAL Research Area Workshops (RAW) funding to organize a student-led workshop
     - year: 2022
       items:
         - Cambridge Trust International Scholarship for full PhD funding
     - year: 2017
       items:
         - Sufian Passamano Prize for Linguistics
-        - >-
-          Elected to a Bateman scholarship for attaining a First-Class Honours
-          classification every year of my bachelor’s degree
+        - Elected to a Bateman scholarship for attaining a First-Class Honours classification every year of my bachelor’s degree
 - title: Research and Employment
   type: time_table
   contents:
@@ -119,63 +115,61 @@
 - title: Presentations
   type: time_table
   contents:
-    - title: The Forgotten Pragmatic Aspect of Conceptual Engineering
-      conference: >-
-        6th International Conference of the American Pragmatics Association
-        (AMPRA)
+    - title: >
+        "The Forgotten Pragmatic Aspect of Conceptual Engineering" at the 6th
+        International Conference of the American Pragmatics Association (AMPRA).
+        USF St Petersburg
       location: Florida
       year: 2024
       invited: true
-    - title: >-
-        Why Making Words Better Is Not That Simple- Conceptual Engineering and
-        Distributional Semantics
-      conference: The 11th Inter-Varietal Applied Corpus Studies (IVACS)
-      coauthor: Ryan Daniels
+    - title: >
+        "Why Making Words Better Is Not That Simple- Conceptual Engineering and
+        Distributional Semantics" at The 11th Inter-Varietal Applied Corpus
+        Studies (IVACS), University of Cambridge
       location: Cambridge
       year: 2024
-    - title: >-
-        Why Making Words Better Is Not That Simple- Conceptual Engineering and
-        Distributional Semantics (Invited)
-      conference: >-
-        Pre-Conference Workshop for the 4th Experimental Philosophy Conference
-        on Large Language Models for Experimental Philosophy
+    - title: >
+        "Why Making Words Better Is Not That Simple- Conceptual Engineering and
+        Distributional Semantics (Invited)" at Pre-Conference Workshop for the
+        4th Experimental Philosophy Conference on Large Language Models for
+        Experimental Philosophy at the Jagiellonian University.
       coauthor: Ryan Daniels
       location: Krakow
       year: 2024
       invited: true
-    - title: Intra and Inter-Word Variation in Conceptual Engineering (Invited)
-      conference: Conceptual Engineering Network (CEN) Lecture
-      location: Virtual
-      url: 'https://www.youtube.com/watch?v=qN6pKFT-9gA&t=2468s'
+    - title: >
+        "Intra and Inter-Word Variation in Conceptual Engineering (Invited)" at
+        Conceptual Engineering Network (CEN) Lecture
       year: 2024
       invited: true
-    - title: Conceptual Engineering-  Fixing the Concept of NOW in Russian
-      conference: >-
+      url: 'https://www.youtube.com/watch?v=qN6pKFT-9gA&t=2468s'
+    - title: >
+        "Conceptual Engineering- Fixing the Concept of NOW in Russian" at
         Workshop on Abstract Concepts, Perception, and Language- What We Think
-        and How We Say It
+        and How We Say It, University of Cambridge 
       location: Cambridge
       year: 2024
-    - title: Empirical Dilemmas in Conceptual Engineering- Words and Beyond (Invited)
-      conference: >-
-        Pre-Conference Workshop for the 3rd European Experimental Philosophy
-        Conference on The Dawn of Experimental Conceptual Engineering
+    - title: >
+        "Empirical Dilemmas in Conceptual Engineering- Words and Beyond
+        (Invited)" at Pre-Conference Workshop for the 3rd European Experimental
+        Philosophy Conference on The Dawn of Experimental Conceptual Engineering at UTH Zurich.
       location: Zurich
       year: 2023
       invited: true
-    - title: Nullius in Verba - Conceptual Engineering and the Royal Society Corpus
-      conference: 18th International Pragmatics Association Conference
+    - title: >
+        "Nullius in Verba - Conceptual Engineering and the Royal Society Corpus"
+        at 18th International Pragmatics Association (IPrA) Conference in Brussels.
       location: Brussels
       year: 2023
-    - title: Collaborative Conceptual Engineering
-      conference: >-
-        8th International Conference on the Philosophy of Languageand
-        Linguistics
+    - title: >
+        "Collaborative Conceptual Engineering" at the 8th International Conference
+        on the Philosophy of Language and Linguistics at the University of Lodz. 
       location: Lodz
       year: 2023
-    - title: >-
-        Conceptual Engineering and Propositions- An Argument for Functional
-        Dynamic Propositions (Invited)
-      conference: 'Semantics, Pragmatics, and Philosophy Workgroup Meeting'
+    - title: >
+        "Conceptual Engineering and Propositions- An Argument for Functional
+        Dynamic Propositions (Invited)" at the Semantics, Pragmatics, and Philosophy
+        Workgroup (SPP) Meeting at the University of Cambridge.
       location: Cambridge
       year: 2023
       invited: true
@@ -242,12 +236,14 @@
        Presentation at the AI Café organised by CL Accelerate Science to exemplify work that can be done with LLMs, July 2024
     - title: ANNOTATED. Episode 01 - Nina Haket
       description: >
-      Podcast recording for the Blog of the Undergraduate Linguistics Association of Britain, explaining my research and advising current undergradiate students. https://ulab.substack.com/p/annotated-episode-01-nina-haket
+        Podcast recording for the Blog of the Undergraduate Linguistics Association 
+        of Britain, explaining my research and advising current undergraduate students. 
+        https://ulab.substack.com/p/annotated-episode-01-nina-haket
     - title: In Search of a Language Utopia
       description: >
-      Magazine article written in The Low Countries, an academic magazine aiming to target all aspects of language and culture. Lichtsteiner, L., & Haket, N. (2021b). In Search of a Language Utopia. The Low Countries, 4(4)
-        
-
+        Magazine article written in *The Low Countries*, an academic magazine aiming 
+        to target all aspects of language and culture. Lichtsteiner, L., & Haket, N. (2021b). 
+        In Search of a Language Utopia. The Low Countries, 4(4).
 - title: Conference and Workshop Organisation
   type: time_table
   contents:
