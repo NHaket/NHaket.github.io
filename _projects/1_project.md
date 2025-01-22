@@ -54,7 +54,3 @@ Haket, N. (2024). Collaborative Conceptual Engineering: Philosophy and Linguisti
 Haket, N. (2023). Nullius In Verba: Conceptual Engineering and the Royal Society Corpus. Cambridge Occasional Papers in Linguistics, 15, 155–195.
 
 Haket, N. and Daniels, R. BERT’s Conceptual Cartography: Mapping the Landscapes of Meaning
-
-## Dynamic Publication List
-
-{% bibliography --query '@tag="conceptual_engineering"' %}
