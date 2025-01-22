@@ -2,17 +2,7 @@
 layout: page
 title: Navigating Meaning Spaces; A Contextualist Approach to Conceptual Engineering
 description: PhD Research Project
-img: cool.jpg
-importance: 1
-category: work
-related_publications: true
----
-
----
-layout: page
-title: Navigating Meaning Spaces: A Contextualist Approach to Conceptual Engineering
-description: PhD Research Project
-img: assets/img/12.jpg
+img: assets/img/cool.jpg
 importance: 1
 category: work
 related_publications: true
