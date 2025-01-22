@@ -200,34 +200,27 @@
   contents:
     - title: Communications Assistant Editor
       items:
-        - organization: 'Languages, Society and Policy Journal'
-        - year: 2024 – Present
-        - description: >
-            An open-access online journal publishing high-quality
-            peer-reviewed language research that addresses issues concerning
-            languages, cultures, and societies in accessible and non-technical
-            language. We promote engagement with policymakers, journalists,
-            and stakeholders in education, health, business, and elsewhere.
-    - title: Organiser
+        - 2024-present
+        - An open-access online journal publishing high-quality
+          peer-reviewed language research that addresses issues concerning
+          languages, cultures, and societies in accessible and non-technical
+          language. We promote engagement with policymakers, journalists,
+          and stakeholders in education, health, business, and elsewhere.
+    - title: Organiser of the Semantics, Pragmatics, and Philosophy Workgroup
       items:
-        - organization: 'Semantics, Pragmatics, and Philosophy Workgroup'
-        - year: 2022 – Present
-        - description: >
-            A bi-weekly Cambridge University meeting in which authors of
-            recently published papers are invited to discuss their work. My
-            role includes selecting papers for discussion, contacting authors
-            to attend, moderating meetings, and communicating with the rest of
-            the university.
-    - title: Editor
+        - 2022-present
+        - A bi-weekly Cambridge University meeting in which authors of
+          recently published papers are invited to discuss their work. My
+          role includes selecting papers for discussion, contacting authors
+          to attend, moderating meetings, and communicating with the rest of
+          the university.
+    - title: Editor of the Cambridge Occasional Papers in Linguistics Journal
       items:
-        - organization: 'Cambridge Occasional Papers in Linguistics Journal'
-        - year: 2022 – Present
-        - description: >
-            This journal publishes the work of Cambridge-affiliated
-            linguistics researchers on an annual basis. My role includes
-            communicating with the authors and using Latex to format and
-            publish the papers.
-
+        - 2022-present
+        - This journal publishes the work of Cambridge-affiliated
+          linguistics researchers on an annual basis. My role includes
+          communicating with the authors and using Latex to format and
+          publish the papers.
 - title: Public Communications
   type: time_table
   contents:
