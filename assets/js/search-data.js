@@ -37,7 +37,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-navigating-meaning-spaces-a-contextualist-approach-to-conceptual-engineering",
+        },{id: "news-a-simple-inline-announcement",
+          title: 'A simple inline announcement.',
+          description: "",
+          section: "News",},{id: "news-presentation-at-the-6th-international-conference-of-the-american-pragmatics-association-ampra-in-florida-titled-the-forgotten-pragmatic-aspect-of-conceptual-engineering",
+          title: 'Presentation at the 6th International Conference of the American Pragmatics Association (AMPRA) in...',
+          description: "",
+          section: "News",},{id: "news-collaborative-conceptual-engineering-linguistics-and-philosophy-published-as-a-chapter-in-conceptual-engineering-methodological-and-metaphilosophical-issues-edited-by-piotr-stalmaszczyk",
+          title: '“Collaborative Conceptual Engineering: Linguistics and Philosophy” published as a chapter in “Conceptual Engineering...',
+          description: "",
+          section: "News",},{id: "projects-navigating-meaning-spaces-a-contextualist-approach-to-conceptual-engineering",
           title: 'Navigating Meaning Spaces; A Contextualist Approach to Conceptual Engineering',
           description: "PhD Research Project",
           section: "Projects",handler: () => {
