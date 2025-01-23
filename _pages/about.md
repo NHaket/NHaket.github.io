@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.mmll.cam.ac.uk/nina-haket'>PhD Student, University of Cambridge</a>. Trinity Hall
 
