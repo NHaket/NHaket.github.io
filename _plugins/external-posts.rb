@@ -22,13 +22,6 @@ module ExternalPosts
       end
     end
 
-    def fetch_from_rss(site, src)
-      xml = HTTParty.get(src['rss_url']).body
-      return if xml.nil?
-      feed = Feedjira.parse(xml)
-      process_entries(site, src, feed.entries)
-    end
-
     def process_entries(site, src, entries)
       entries.each do |e|
         puts "...fetching #{e.url}"
