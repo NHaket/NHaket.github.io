@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-presentation-at-the-6th-international-conference-of-the-american-pragmatics-association-ampra-in-florida-titled-the-forgotten-pragmatic-aspect-of-conceptual-engineering",
-          title: 'Presentation at the 6th International Conference of the American Pragmatics Association (AMPRA) in...',
-          description: "",
-          section: "News",},{id: "news-collaborative-conceptual-engineering-linguistics-and-philosophy-published-as-a-chapter-in-conceptual-engineering-methodological-and-metaphilosophical-issues-edited-by-piotr-stalmaszczyk",
+        },{id: "news-collaborative-conceptual-engineering-linguistics-and-philosophy-published-as-a-chapter-in-conceptual-engineering-methodological-and-metaphilosophical-issues-edited-by-piotr-stalmaszczyk",
           title: '“Collaborative Conceptual Engineering: Linguistics and Philosophy” published as a chapter in “Conceptual Engineering...',
+          description: "",
+          section: "News",},{id: "news-presentation-at-the-6th-international-conference-of-the-american-pragmatics-association-ampra-in-florida-titled-the-forgotten-pragmatic-aspect-of-conceptual-engineering",
+          title: 'Presentation at the 6th International Conference of the American Pragmatics Association (AMPRA) in...',
           description: "",
           section: "News",},{id: "news-my-paper-meta-pragmatics-in-conceptual-engineering-towards-a-pragmatic-lexical-taxonomy-was-accepted-for-presentation-as-part-of-the-panel-choosing-the-best-words-organized-by-cliff-goddard-helen-bromhead-during-the-19th-international-pragmatics-conference-to-be-held-in-brisbane-australia-from-22-to-27-june-2025",
           title: 'My paper “(Meta)pragmatics in Conceptual Engineering: Towards a pragmatic lexical taxonomy” was accepted...',
